@@ -1,0 +1,49 @@
+npm install superagent -D
+npm install vue-router -D
+
+
+ESLint安装配置
+npm install -g eslint
+eslint --init
+npm install babel-eslint --save
+
+store一种本地localStorage管理包
+cnpm install store -D
+
+1. 安装 loader 模块：
+    cnpm install style-loader -D
+    cnpm install css-loader -D
+    cnpm install file-loader -D
+2. 安装 饿了么 模块
+   cnpm install element-ui --save
+
+安装sass-loader以及node-sass插件
+npm install sass-loader -D
+
+淘宝镜像网站
+https://npm.taobao.org/
+
+ElementUI官方文档
+http://element-cn.eleme.io/#/zh-CN
+
+VUE官网
+https://cn.vuejs.org/
+
+环境搭建教程
+https://www.jianshu.com/p/3adc885b67d6
+
+node-sass  git网
+https://github.com/sass/node-sass
+
+安装node-sass
+cnpm install node-sass -D
+
+cnpm install sass-loader -D
+
+----------------------------------问题解决----------------------------------------
+缓存清理命令
+npm cache clean --force
+
+
+4058错误解决
+使用淘宝源
